@@ -32,10 +32,12 @@ The dataset contains loan data from 2007 to 2011, including applicant attributes
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+-  Loans with a **10+ year employment length**, **interest rates in the range of 10%-20%**, **credit grades of B, C, and D**, and **loan values in the range of 5K-20K**, with the purpose of **debt consolidation**, are the riskiest loans.
+- Loan amount for defaulters ranges between **20%-35% of annual income** in general.
+- The **median interest rate** for defaulters is higher than that of all loans, indicating that interest rate impacts loan payment. Almost **50% of loans** in the higher loan amount category get defaulted. **Higher loan amounts and high interest rates** are risky.
+- Most loans that are charged off are held by individuals who either **rent or have a mortgage**. This could suggest that the financial burden of a mortgage or rent, combined with additional loan obligations, might stretch financial capacities, leading to defaults.
+
+The detailed analysis is available in the notebook
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -53,13 +55,14 @@ The dataset contains loan data from 2007 to 2011, including applicant attributes
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This case study was carried out as part of Upgrad-IIITB AI-ML Executive PG Program
+- References
+    -Upgrad Course - https//learn.upgrad.com
+    -YouTube Links - https://www.youtube.com/@codebasics
+    
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@kondajji] & [@Shahtirth19]
 
 
 <!-- Optional -->
