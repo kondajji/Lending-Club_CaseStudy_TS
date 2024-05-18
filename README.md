@@ -1,5 +1,4 @@
-# Project Name
-> # Lending Club Case Study
+# Project Name - Lending Club Case Study
 
 This repository contains the code and presentation for a case study on identifying patterns of loan default using Exploratory Data Analysis (EDA). The case study is conducted for a consumer finance company specializing in lending various types of loans to urban customers.
 
@@ -57,8 +56,8 @@ The detailed analysis is available in the notebook
 Give credit here.
 - This case study was carried out as part of Upgrad-IIITB AI-ML Executive PG Program
 - References
-    -Upgrad Course - https//learn.upgrad.com
-    -YouTube Links - https://www.youtube.com/@codebasics
+    - Upgrad Course - https//learn.upgrad.com
+    - YouTube Links - https://www.youtube.com/@codebasics
     
 
 ## Contact
