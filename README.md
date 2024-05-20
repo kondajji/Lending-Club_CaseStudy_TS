@@ -31,7 +31,18 @@ The dataset contains loan data from 2007 to 2011, including applicant attributes
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
--  Loans with a **10+ year employment length**, **interest rates in the range of 10%-20%**, **credit grades of B, C, and D**, and **loan values in the range of 5K-20K**, with the purpose of **debt consolidation**, are the riskiest loans.
+
+### Goal
+#### Key Driving factors/variables to determine if loan gets default are:
+- Annual Income
+- Loan Amount
+- Interest Rate
+- Loan Purpose
+- Employment Duration
+- Loan/Credit Grade
+
+### Other Findings using EDA: 
+- Loans with a **10+ year employment length**, **interest rates in the range of 10%-20%**, **credit grades of B, C, and D**, and **loan values in the range of 5K-20K**, with the purpose of **debt consolidation**, are the riskiest loans.
 - Loan amount for defaulters ranges between **20%-35% of annual income** in general.
 - The **median interest rate** for defaulters is higher than that of all loans, indicating that interest rate impacts loan payment. Almost **50% of loans** in the higher loan amount category get defaulted. **Higher loan amounts and high interest rates** are risky.
 - Most loans that are charged off are held by individuals who either **rent or have a mortgage**. This could suggest that the financial burden of a mortgage or rent, combined with additional loan obligations, might stretch financial capacities, leading to defaults.
@@ -53,7 +64,7 @@ The detailed analysis is available in the notebook
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
+
 - This case study was carried out as part of Upgrad-IIITB AI-ML Executive PG Program
 - References
     - Upgrad Course - https//learn.upgrad.com
