@@ -72,7 +72,7 @@ The detailed analysis is available in the notebook
     
 
 ## Contact
-Created by [@kondajji] & [@Shahtirth19]
+- Created by [@kondajji]() & [@Shahtirth19]()
 
 
 <!-- Optional -->
